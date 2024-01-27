@@ -1,4 +1,3 @@
-# Login Page Using React JS
 
 # Features
 
@@ -13,5 +12,5 @@
 
 ## Screenshots
 
-![App Screenshot](./login.png)
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
